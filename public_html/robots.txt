@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://jaehoon2.shop/sitemap.xml
